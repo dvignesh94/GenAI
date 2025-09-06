@@ -1,0 +1,3 @@
+CNN: Prioritizes local spatial hierarchies. It assumes that pixels close to each other are more related and builds up from local patterns (edges) to global patterns (objects) using convolutional filters and pooling layers.
+
+Transformer: Prioritizes global context via attention. It uses the self-attention mechanism to weigh the importance of every part of the input with respect to every other part, regardless of distance, right from the first layer.
